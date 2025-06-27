@@ -79,7 +79,7 @@ fun LoginScreen(navController: NavHostController) {
                 contentAlignment = Alignment.Center
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.a), // Ganti dengan gambar Anda
+                    painter = painterResource(id = R.drawable.a),
                     contentDescription = "App Logo",
                     modifier = Modifier.size(250.dp),
                     contentScale = ContentScale.Fit

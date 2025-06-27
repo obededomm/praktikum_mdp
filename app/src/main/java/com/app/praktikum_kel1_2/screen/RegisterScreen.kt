@@ -56,7 +56,7 @@ fun RegisterScreen(navController: NavHostController) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Image(
-            painter = painterResource(id = R.drawable.ic_launcher_foreground),
+            painter = painterResource(id = R.drawable.b),
             contentDescription = "App Logo",
             modifier = Modifier.size(100.dp),
             contentScale = ContentScale.Fit
